@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="165px" height="39px" viewBox="0 0 165 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FinalyzeLogo" transform="translate(1.000000, 1.000000)">
+            <text id="FINALYZE" font-family="Montserrat-Regular, Montserrat" font-size="22" font-weight="normal" fill="#FFFFFF">
+                <tspan x="43.5" y="27">FINALYZE</tspan>
+            </text>
+            <polyline id="Path-1" stroke="#FFFFFF" stroke-width="2" points="0.344336536 26.8869121 11.6308861 13.2387365 24.4931681 21.972329 38.3305693 2.69200905"></polyline>
+            <g id="Group-2" transform="translate(35.202283, 6.502279) rotate(-10.000000) translate(-35.202283, -6.502279) translate(30.202283, 1.502279)" stroke="#FFFFFF" stroke-width="2">
+                <path d="M9.11,1.84 L0.630008387,1.85192685" id="Path-3"></path>
+                <path d="M8.81,0.85 L8.81,9.34" id="Path-3"></path>
+            </g>
+            <polyline id="Path-4" stroke="#FFFFFF" stroke-width="2" points="7.54243362 30.4135586 13.8374482 22.7636755 26.5710396 31.6886178 161.859176 31.6900024"></polyline>
+            <path d="M162.79,32.33 L157.145661,25.99" id="Path-5" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M162.807723,31.02 L157.055301,36.96" id="Path-6" stroke="#FFFFFF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
