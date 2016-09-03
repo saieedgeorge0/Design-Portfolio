@@ -1,5 +1,5 @@
 #Design-Portfolio
-##I also designed my resume - to see it, go to [here] (http://georgesaieed.com/DesignResume.pdf) to my [website] (http://georgesaieed.com)
+##I also designed my resume - to see it, go to [here] (http://georgesaieed.com/DesignResume.pdf) (hosted on my [website] (http://georgesaieed.com))
 ##In addition, I've single-handedly designed a large scale web application for [Inventory Connection] (http://inventoryconnectionllc.com) (as well as developed the front and back-end) - however, I cannot yet legally post the designs. 
 ####To see my skills utilizing Photoshop, see [Poly Art Profile Picture] (https://github.com/saieedgeorge0/Design-Portfolio/tree/master/Poly%20Art%20Profile%20Picture) and [A Capella Poster] (https://github.com/saieedgeorge0/Design-Portfolio/tree/master/A%20Capella%20poster)
 ####To see my mobile design skills (with Sketch), view [myReceipts Design] (https://github.com/saieedgeorge0/Design-Portfolio/tree/master/myReceipts%20Design), [YourCalc] (https://github.com/saieedgeorge0/Design-Portfolio/tree/master/YourCalc), and [AIG Competition Entry] (https://github.com/saieedgeorge0/Design-Portfolio/tree/master/AIG%20Competition%20Entry)
